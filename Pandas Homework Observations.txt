@@ -1,0 +1,7 @@
+Observation 1:  Based on the last table constructed, it appears that Charter schools are achieving better results
+across the board than District schools.  They have pass rates in the 90s for both Math and Reading and an 
+overall pass rate of 90.4%.  District schools on the other hand have pass rates of 66.5% and 80.8% for Math and 
+Reading, respectively.  District schools have and overall pass rate of just 53.7%
+
+Observation 2: Spending more per student doesn't equate to better outcomes.  In fact, the schools that were
+in the lowest spending bucket, less than $585 per student show the highest pass rates.  
